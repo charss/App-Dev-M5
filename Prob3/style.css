@@ -1,0 +1,10 @@
+label { 
+    display: inline-block; 
+    width: 120px; 
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+input[type='text'] {
+    margin-bottom: 10px;
+}
